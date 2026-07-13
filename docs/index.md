@@ -31,6 +31,7 @@ Equipped with on-camera machine learning models, motion detection and night visi
   <a href="pages/md/wildlife_watcher_user_guide_start_a_deployment" class="button-nav">Start deployment</a>
   <a href="pages/md/wildlife_watcher_user_guide_image_processing" class="button-nav">Image Processing</a>  
   <a href="pages/md/wildlife_watcher_user_guide_trapnz" class="button-nav">Trap.NZ notifications</a>
+  <a href="pages/md/wildlife_watcher_user_guide_lorawan" class="button-nav">LoRaWAN connectivity</a>
 </p>
 
 ## Documentation
